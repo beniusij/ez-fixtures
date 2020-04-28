@@ -2,6 +2,7 @@
   "name" : "beniusij/ez-fixtures",
   "description" : "Symfony bundle enabling engineers to easily setup and run fixtures for eZ Platform projects",
   "type" : "symfony-bundle",
+  "version": "0.1.0",
   "authors" : [{
     "name" : "Juozas Beniusis",
     "email" : "beniusij@gmail.com"
