@@ -11,12 +11,13 @@
     "eZ Platform",
     "Fixtures"
   ],
-  "license" : [
-    "MIT"
-  ],
+  "license" : "MIT",
   "require" : {
+    "php": ^7.2,
+    "ezsystems/ezplatform-core": "~1.0.2",
+    "symfony/yaml": "^2.8",
   },
   "autoload" : {
-    "psr-4": { "beniusij\\": "src/" }
+    "psr-4": { "beniusij\\": "src/EzFixtures" }
   }
 }
